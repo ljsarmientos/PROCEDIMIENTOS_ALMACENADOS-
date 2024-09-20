@@ -1,6 +1,6 @@
 # PROCEDIMIENTOS_ALMACENADOS-
 
-#1. Escribe un procedimiento que no tenga ningún parámetro de entrada ni de salida y que
+1. Escribe un procedimiento que no tenga ningún parámetro de entrada ni de salida y que
 muestre el texto ¡Hola mundo! 
 CREATE DEFINER='root'@'localhost' PROCEDURE 'mostarHolaMundo'()
 BEGIN
